@@ -6,8 +6,8 @@ const LocalStrategy = require("passport-local").Strategy;
 const User = require("./model");
 
 const GOOGLE_CLIENT_ID =
-  "972004461721-il1b23n1ji7k8ob681vvsefkpa9nbi9p.apps.googleusercontent.com";
-const GOOGLE_CLIENT_SECRET = "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";
+  ""
+const GOOGLE_CLIENT_SECRET = 
 
 GITHUB_CLIENT_ID = "your id";
 GITHUB_CLIENT_SECRET = "your id";
